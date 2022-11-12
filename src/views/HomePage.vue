@@ -14,8 +14,13 @@
       </ion-header>
     
       <div id="container">
-        <strong>Ready to create an app?</strong>
-        <p>Start with Ionic <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
+        <strong>
+          NIM: 041643527 <br>
+          Nama: Damelia <br>
+          UPBJJ: Jakarta
+        </strong>
+        <p>YouTube <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/c/CERDASBersamaDamelia">Cerdas Bersama Damelia</a></p>
+        <p>Subscribe! xixi</p>
       </div>
     </ion-content>
   </ion-page>
