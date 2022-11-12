@@ -9,5 +9,5 @@ Kumpulkan:
 1. Hasil dari screenshoot aplikasi
 2. Struktur folder proyek
 
-Hasil:
+Hasil run:
 ![image](https://user-images.githubusercontent.com/72592250/201458186-f9d28500-e6d6-4e17-9b5b-7b8a499a1d71.png)
